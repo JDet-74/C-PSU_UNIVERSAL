@@ -6,7 +6,7 @@ All components are listet in the BOM file and all PDF files are in the PDF direc
 <p>I bought all components from a german seller http://www.reichelt.de </br>
 You can find all components there. The part numbers in the PDF could be found online.</p>
 <p>If you want a PCB for cheap I have three PCBs left (17.11.2020) ... send me a personal request.</p>
-<p>kernelpanic_74@yahoo.de</p>
+<p>kernelpanic_74[at]yahoo.de</p>
 
 <p>Greez </br></br> 
 JDet</p>
