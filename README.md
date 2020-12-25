@@ -1,10 +1,14 @@
-# C-PSU_UNIVERSAL
+# C=PSU_UNIVERSAL
 <h3>universal PSU for C64/C128/Floppy_Drives</h3>
-<p>You can find the files of my PSU Project.</p>
+<p>Here you can find my files for the C=PSU project.</p>
 <p>This is a DIY power supply unit für a C64 C128 or commodore floppy drive.</br>
+I used a standard MEANWELL PSU for the +5V and +12V power rails.</br>
+For the 9V~ power rail I used a standard transformer with enough amps.</br>
+I combined the MEANWELL switching PSU and the transformer with a developed PCB.</br>
 All components are listet in the BOM file and all PDF files are in the PDF directory.</p>
 <p>I bought all components from a german seller http://www.reichelt.de </br>
-You can find all components there. The part numbers in the PDF could be found online.</p>
+You can also buy from http://www.reichelt.com </br> 
+You can purchase all components there. The part numbers in the PDF could be found on the <strong>REICHELT</strong> webpage.</p>
 <p>If you want a PCB for cheap I have three PCBs left (17.11.2020) ... send me a personal request.</p>
 <p>kernelpanic_74[at]yahoo.de</p>
 
