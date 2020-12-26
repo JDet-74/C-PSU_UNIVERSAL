@@ -12,5 +12,5 @@ You can purchase all components there. The part numbers in the PDF could be foun
 <p>If you want a PCB for cheap I have three PCBs left (17.11.2020) ... send me a personal request.</p>
 <p>kernelpanic_74[at]yahoo.de</p>
 
-<p>Greez </br></br> 
+<p>Greetz </br></br> 
 JDet</p>
