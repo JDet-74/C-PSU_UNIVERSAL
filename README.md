@@ -14,3 +14,5 @@ You can purchase all components there. The part numbers in the PDF could be foun
 
 <p>Greetz </br></br> 
 JDet</p>
+<h3>Contact</h3>
+<p>For any questions (technical or experience) or if you want a PCB for cheap, please use the issue tracking system of github.</p> 
